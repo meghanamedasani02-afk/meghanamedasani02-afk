@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Meghana 👋
 
-<!--
-**meghanamedasani02-afk/meghanamedasani02-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Engineer | B.Tech CSE (AI & ML) | Class of 2028
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm **Medasani Meghana**, an undergraduate student interested in software development and artificial intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm at the beginning of my development journey, learning programming fundamentals and building my skills step by step.
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Pursuing B.Tech in Computer Science and Engineering (AI & ML)
+- 📅 Expected graduation: 2028
+- 💡 Interested in software engineering and problem-solving
+- 🌱 Currently developing my programming and technical skills
+- 🎯 Goal: Build useful projects and grow as a software engineer
+
+## 🛠️ Skills
+
+*Skills will be added here as I learn and practice them.*
+
+## 🚀 Projects
+
+*Projects will be showcased here as I build and publish them.*
+
+## 📚 Current Focus
+
+- Strengthening programming fundamentals
+- Practicing problem-solving
+- Learning Git and GitHub
+- Developing practical software projects
+
+## 🤝 Connect With Me
+
+- GitHub: [Visit my profile](https://github.com/)
+
+---
+
+*Learning consistently. Building thoughtfully. Improving every day.* ✨
